@@ -1,0 +1,11 @@
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\libgetrandom-a7a130fcba34edd0.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\util.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error_std_impls.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\../README.md C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends\windows.rs
+
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\getrandom-a7a130fcba34edd0.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\util.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error_std_impls.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\../README.md C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends\windows.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src/lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\util.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\error_std_impls.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\../README.md:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.3.2\src\backends\windows.rs:

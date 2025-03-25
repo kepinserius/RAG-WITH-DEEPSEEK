@@ -1,0 +1,11 @@
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\libcached_path-bda7918f88cf2918.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\archives.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\cache.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\meta.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\progress_bar.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\utils.rs
+
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\cached_path-bda7918f88cf2918.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\archives.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\cache.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\error.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\meta.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\progress_bar.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\utils.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src/lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\archives.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\cache.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\error.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\meta.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\progress_bar.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cached-path-0.6.1\src\utils.rs:

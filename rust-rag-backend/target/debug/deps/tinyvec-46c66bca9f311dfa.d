@@ -1,0 +1,11 @@
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\libtinyvec-46c66bca9f311dfa.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\array.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\array\generated_impl.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\arrayvec.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\arrayvec_drain.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\slicevec.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\tinyvec.rs
+
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\tinyvec-46c66bca9f311dfa.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\array.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\array\generated_impl.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\arrayvec.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\arrayvec_drain.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\slicevec.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\tinyvec.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src/lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\array.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\array\generated_impl.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\arrayvec.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\arrayvec_drain.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\slicevec.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinyvec-1.9.0\src\tinyvec.rs:

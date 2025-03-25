@@ -1,0 +1,11 @@
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/libserde_plain-58f49ea44dc802c5.rmeta: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs
+
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/libserde_plain-58f49ea44dc802c5.rlib: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs
+
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/serde_plain-58f49ea44dc802c5.d: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs
+
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs:

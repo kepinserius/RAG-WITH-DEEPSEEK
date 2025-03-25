@@ -1,0 +1,11 @@
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/libfoldhash-640ae70bec429fa0.rmeta: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/fast.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/quality.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/seed.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/convenience.rs
+
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/libfoldhash-640ae70bec429fa0.rlib: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/fast.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/quality.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/seed.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/convenience.rs
+
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/foldhash-640ae70bec429fa0.d: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/fast.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/quality.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/seed.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/convenience.rs
+
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/lib.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/fast.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/quality.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/seed.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/foldhash-0.1.5/src/convenience.rs:

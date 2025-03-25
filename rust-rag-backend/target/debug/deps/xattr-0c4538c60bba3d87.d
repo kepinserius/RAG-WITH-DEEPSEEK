@@ -1,0 +1,11 @@
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/libxattr-0c4538c60bba3d87.rmeta: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/error.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/mod.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/util.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/linux_macos.rs
+
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/libxattr-0c4538c60bba3d87.rlib: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/error.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/mod.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/util.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/linux_macos.rs
+
+/mnt/c/Users/ASUS/rag/rust-rag-backend/target/debug/deps/xattr-0c4538c60bba3d87.d: /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/lib.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/error.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/mod.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/util.rs /home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/linux_macos.rs
+
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/lib.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/error.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/mod.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/util.rs:
+/home/kepinganteng/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xattr-1.5.0/src/sys/linux_macos.rs:

@@ -1,0 +1,13 @@
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\libhalf-3e0b435cb2a89465.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\bfloat.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\bfloat\convert.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16\arch.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16\arch\x86.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\leading_zeros.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\slice.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\vec.rs
+
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\half-3e0b435cb2a89465.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\bfloat.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\bfloat\convert.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16\arch.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16\arch\x86.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\leading_zeros.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\slice.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\vec.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src/lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\bfloat.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\bfloat\convert.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16\arch.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\binary16\arch\x86.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\leading_zeros.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\slice.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.5.0\src\vec.rs:

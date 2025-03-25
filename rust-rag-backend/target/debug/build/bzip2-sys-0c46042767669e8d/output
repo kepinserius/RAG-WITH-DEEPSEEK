@@ -1,0 +1,88 @@
+OPT_LEVEL = Some(0)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps;C:\Users\ASUS\rag\rust-rag-backend\target\debug;C:\Users\ASUS\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Java\jdk-1.8.0_202\bin;C:\Program Files\Java\jdk-21.0.1\bin;C:\xampp\php;C:\composer;C:\Program Files\Git\cmd;C:\Users\ASUS\.config\herd\bin\nvm;C:\Program Files\nodejs;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Users\ASUS\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\ASUS\AppData\Roaming\npm;C:\Users\ASUS\AppData\Roaming\npx;C:\Program Files\PostgreSQL\17\bin;C:\Program Files\nodejs\;C:\Lua;C:\Program Files\Neovim\bin;C:\Program Files\Neovim\bin;c:\Users\ASUS\AppData\Local\Programs\Trae\bin;C:\Users\ASUS\.cargo\bin;C:\Users\ASUS\.config\herd\bin;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\Users\ASUS\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Android\Android Studio\bin;C:\Program Files\Java\jdk-1.8.0_202\bin;C:\Users\ASUS\AppData\Local\GitHubDesktop\bin;C:\Users\ASUS\AppData\Roaming\Composer\vendor\bin;C:\src\flutter\bin;C:\Users\ASUS\go\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2024.3\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2024.3.1.1\bin;;C:\Users\ASUS\.cargo\bin;C:\Users\ASUS\AppData\Roaming\npm;C:\Program Files\JetBrains\RustRover 2024.3.3\bin;;C:\Program Files\JetBrains\CLion 2024.3.2\bin;;C:\Users\ASUS\.lmstudio\bin;C:\Users\ASUS\AppData\Local\Programs\cursor\resources\app\bin)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(true)
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+CARGO_ENCODED_RUSTFLAGS = Some()
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+blocksort.c
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+huffman.c
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+crctable.c
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+randtable.c
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+compress.c
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+decompress.c
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+bzlib.c
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: 'BZ_EXPORT': macro redefinition
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.13+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 'BZ_EXPORT' previously declared on the command line
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rustc-link-lib=static=bz2
+cargo:rustc-link-search=native=C:\Users\ASUS\rag\rust-rag-backend\target\debug\build\bzip2-sys-0c46042767669e8d\out\lib
+cargo:root=C:\Users\ASUS\rag\rust-rag-backend\target\debug\build\bzip2-sys-0c46042767669e8d\out
+cargo:include=C:\Users\ASUS\rag\rust-rag-backend\target\debug\build\bzip2-sys-0c46042767669e8d\out\include

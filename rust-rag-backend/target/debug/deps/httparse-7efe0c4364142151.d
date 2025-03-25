@@ -1,0 +1,12 @@
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\libhttparse-7efe0c4364142151.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\iter.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\macros.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\mod.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\swar.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\sse42.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\avx2.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\runtime.rs
+
+C:\Users\ASUS\rag\rust-rag-backend\target\debug\deps\httparse-7efe0c4364142151.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src/lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\iter.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\macros.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\mod.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\swar.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\sse42.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\avx2.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\runtime.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src/lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\iter.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\macros.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\mod.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\swar.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\sse42.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\avx2.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\httparse-1.10.1\src\simd\runtime.rs:
